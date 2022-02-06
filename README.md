@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @radojicicugo
+Hello, i am @radojicicugo full-stack developer :)
 ...
 
 <!---
