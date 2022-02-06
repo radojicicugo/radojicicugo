@@ -1,4 +1,4 @@
-Hello, i am @radojicicugo full-stack developer :)
+Hello, it's me - @radojicicugo full-stack developer :)
 ...
 
 <!---
